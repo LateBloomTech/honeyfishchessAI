@@ -1,6 +1,6 @@
 # Honeyfish Chess AI
 
-![Demo](img/henyfishUCI2 vs henyfishUCI (1_2-1_2) 2025-09-11 20-47-19_2.gif)
+![Demo](img/henyfishUCI2vshenyfishUCIDEMO.gif)
 
 
 ## プロジェクト概要
